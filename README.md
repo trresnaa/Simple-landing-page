@@ -13,9 +13,7 @@ This is a simple, responsive landing page created as part of a Bootstrap 4 cours
 ## Technologies Used
 
 - **HTML**: Used to structure the content and layout of the landing page.
-- **CSS**: Custom styles for fine-tuning the design and enhancing the Bootstrap 4 components.
 - **Bootstrap 4**: A powerful front-end framework for building responsive and modern web pages.
-- **JavaScript (Optional)**: Used to implement smooth scroll functionality and enhance interactivity.
 
 ## Structure
 
